@@ -1,0 +1,3 @@
+
+#for run redis in docker, you can use the following command:
+docker run -d --name redis -p 6379:6379 redis 
